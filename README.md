@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shawn Santan D'Souza 👋
 
-<!--
-**shawn-d123/shawn-d123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student specialising in Software Engineering, interested in building clean, practical, and well-designed software. My main experience is in Java and Python, with projects spanning robotics, systems design, and real-world problem solving.
 
-Here are some ideas to get you started:
+I’m currently developing my portfolio around software engineering, technical projects, and hands-on experience that reflects how I like to work: structured, curious, and focused on building things that are genuinely useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Build software projects in **Java** and **Python**
+- Work on **robotics and Raspberry Pi-based systems**
+- Focus on **systems design, algorithms, and clean code**
+- Develop projects with a strong emphasis on readability, structure, and practical use
+
+## Skills and tools
+
+- **Languages:** Java, Python, C#
+- **Core areas:** OOP, algorithms, software design, debugging, testing
+- **Tools and platforms:** Git, GitHub, Raspberry Pi, SwiftBot, Unity
+
+## Current focus
+
+- Growing as a software engineer through practical development
+- Building professional, portfolio-ready projects
+- Preparing for internships and real-world technical roles
+
+## Connect with me
+
+- LinkedIn: [Add your LinkedIn link here]
+- Email: [Add your email here]
+
+---
+*Passionate about real-world software, continuous improvement, and building with purpose.*
