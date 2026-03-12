@@ -25,8 +25,6 @@ I’m currently developing my portfolio around software engineering, technical p
 
 ## Connect with me
 
-- LinkedIn: [Add your LinkedIn link here]
-- Email: [Add your email here]
+- LinkedIn: www.linkedin.com/in/shawn-dsouza-code234
+- Email: dsouzashawn305@gmail.com
 
----
-*Passionate about real-world software, continuous improvement, and building with purpose.*
