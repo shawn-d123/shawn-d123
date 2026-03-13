@@ -1,4 +1,4 @@
-# Hi, I'm Shawn Santan D'Souza 👋
+# Hi, I'm Shawn 👋
 
 I’m a Computer Science student specialising in Software Engineering, interested in building clean, practical, and well-designed software. My main experience is in Java and Python, with projects spanning robotics, systems design, and real-world problem solving.
 
