@@ -1,30 +1,23 @@
-# Hi, I'm Shawn 👋
+# Hey, I'm Shawn
 
-I’m a Computer Science student specialising in Software Engineering, interested in building clean, practical, and well-designed software. My main experience is in Java and Python, with projects spanning robotics, systems design, and real-world problem solving.
+First-year Computer Science student at Brunel University London. I like building things, breaking things, and figuring out why they broke.
 
-I’m currently developing my portfolio around software engineering, technical projects, and hands-on experience that reflects how I like to work: structured, curious, and focused on building things that are genuinely useful.
+I work mainly in **Java**, **Python**, and **C#**, and most of my projects involve some combination of real data, real hardware, or systems that actually do something. I'm not great at leaving things half-finished so most of what you'll find here is documented, tested, and works.
 
-## What I do
+## Currently
 
-- Build software projects in **Java** and **Python**
-- Work on **robotics and Raspberry Pi-based systems**
-- Focus on **systems design, algorithms, and clean code**
-- Develop projects with a strong emphasis on readability, structure, and practical use
+- Studying CS with Software Engineering at Brunel
+- Running LLMs locally through Ollama and seeing where they hold up
+- Looking for internship opportunities in software, research, and IoT
 
-## Skills and tools
+## Tools I use
 
-- **Languages:** Java, Python, C#
-- **Core areas:** OOP, algorithms, software design, debugging, testing
-- **Tools and platforms:** Git, GitHub, Raspberry Pi, SwiftBot, Unity
+`Java` `Python` `C#` `Unity` `Raspberry Pi` `Git` `Pandas` `NumPy` `Scikit-learn` `JUnit` `Matplotlib` `Ollama`
 
-## Current focus
+## How I work
 
-- Growing as a software engineer through practical development
-- Building professional, portfolio-ready projects
-- Preparing for internships and real-world technical roles
+I like structured code, clear documentation, and understanding why something works rather than just that it works. If a project doesn't have a README, I probably haven't pushed it yet.
 
-## Connect with me
+## Get in touch
 
-- LinkedIn: www.linkedin.com/in/shawn-dsouza-code234
-- Email: dsouzashawn305@gmail.com
-
+[LinkedIn](https://www.linkedin.com/in/shawn-dsouza-code234) · dsouzashawn305@gmail.com
