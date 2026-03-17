@@ -1,4 +1,5 @@
-# Hey, I'm Shawn
+# Hey, I'm Shawn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 
 First-year Computer Science student at Brunel University London. I like building things, breaking things, and figuring out why they broke.
 
