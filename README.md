@@ -9,7 +9,7 @@ I work mainly in **Java**, **Python**, and **C#**, and most of my projects invol
 
 - Studying CS with Software Engineering at Brunel
 - Running LLMs locally through Ollama and seeing where they hold up
-- Looking for internship opportunities in software, research, and IoT
+- Looking for internship opportunities in software, research, data science and IoT
 
 ## Tools I use
 
