@@ -1,7 +1,5 @@
 # Shawn here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&vCenter=true&width=600&lines=I+build+things.;I+make+them+work.;Then+I+ship+them." alt="typing tagline" />
-
 Second-year Computer Science student at Brunel University London, predicted a first. Open to placement, internship and graduate roles in software, data science and AI.
 
 Most of what I build involves real data, real hardware, or systems that actually do something. I like pulling things apart to understand why they work.
