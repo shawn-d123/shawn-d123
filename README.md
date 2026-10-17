@@ -4,7 +4,7 @@ Second-year Computer Science student at Brunel University London, predicted a fi
 
 Most of what I build involves real data, real hardware, or systems that actually do something. I like pulling things apart to understand why they work.
 
-## 🔭 Currently
+## Currently
 
 - Running LLMs locally through Ollama to see where they hold up
 - Building and benchmarking data and AI pipelines in Python
